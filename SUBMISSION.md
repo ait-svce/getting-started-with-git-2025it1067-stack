@@ -71,6 +71,6 @@ Paste the output of `whoami` here:
 
 ---
 
-**Submission Date:** [Auto-filled when you commit]
+**Submission Date:** [07/02/2026]
 
-**Repository URL:** [Your GitHub Classroom repository URL]
+**Repository URL:** []
