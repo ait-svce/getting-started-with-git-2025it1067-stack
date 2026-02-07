@@ -2,13 +2,13 @@
 
 ## Student Information
 
-**Name:** [Your Full Name]
+**Name:** [SYED ISRAR AHMED G]
 
-**Student ID:** [Your Student ID]
+**Student ID:** [2025IT1067]
 
-**Date:** [Submission Date]
+**Date:** [07/02/2026]
 
-**Operating System:** [Windows / macOS / Linux (specify distribution)]
+**Operating System:** [Windows]
 
 ---
 
@@ -19,7 +19,7 @@
 Paste the output of `git --version` here:
 
 ```
-[Paste output here]
+[git version 2.53.0.windows.1]
 ```
 
 ### Username (whoami output)
@@ -27,17 +27,17 @@ Paste the output of `git --version` here:
 Paste the output of `whoami` here:
 
 ```
-[Paste output here]
+[syedi]
 ```
 
 ---
 
 ## Screenshot
 
-**Screenshot File Path:** `screenshots/git_installation_[your_name].[png/jpg]`
+**Screenshot File Path:** `C:\Users\syedi\OneDrive\Desktop\screenshots\git_installation_syed israr ahmed.G.png`
 
 **Screenshot Description:** 
-[Briefly describe what is shown in your screenshot - e.g., "Git Bash window showing whoami command with output 'john_doe'"]
+["Git Bash window showing whoami command with output 'syedi'"]
 
 ---
 
@@ -45,29 +45,29 @@ Paste the output of `whoami` here:
 
 ### Installation Method Used
 
-[Describe which installation method you used - e.g., "Downloaded installer from git-scm.com", "Used Homebrew", etc.]
+["Downloaded installer from git-scm.com"]
 
 ### Did you encounter any issues during installation?
 
-[Yes/No - If yes, briefly describe the issue and how you resolved it]
+[No]
 
 ---
 
 ## Verification
 
-- [ ] Git is successfully installed on my machine
-- [ ] I can run `git --version` command successfully
-- [ ] I can run `whoami` command successfully
-- [ ] I have taken a screenshot showing the `whoami` command execution
-- [ ] I have added my screenshot to the `screenshots/` folder
-- [ ] I have filled out all required information in this file
-- [ ] I have committed and pushed my changes to the repository
+- [yes] Git is successfully installed on my machine
+- [yes] I can run `git --version` command successfully
+- [yes] I can run `whoami` command successfully
+- [yes] I have taken a screenshot showing the `whoami` command execution
+- [yes] I have added my screenshot to the `screenshots/` folder
+- [yes] I have filled out all required information in this file
+- [yes] I have committed and pushed my changes to the repository
 
 ---
 
 ## Additional Comments
 
-[Optional: Add any additional comments, questions, or feedback about the assignment]
+[very good assignment to understand GIT]
 
 ---
 
