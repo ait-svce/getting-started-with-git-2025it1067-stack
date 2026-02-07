@@ -34,7 +34,7 @@ Paste the output of `whoami` here:
 
 ## Screenshot
 
-**Screenshot File Path:** `C:\Users\syedi\OneDrive\Desktop\screenshots\git_installation_syed israr ahmed.G.png`
+**Screenshot File Path:** `"C:\Users\syedi\Downloads\screenshots"`
 
 **Screenshot Description:** 
 ["Git Bash window showing whoami command with output 'syedi'"]
@@ -73,4 +73,4 @@ Paste the output of `whoami` here:
 
 **Submission Date:** [07/02/2026]
 
-**Repository URL:** []
+**Repository URL:** [https://github.com/ait-svce/getting-started-with-git-2025it1067-stack.git]
